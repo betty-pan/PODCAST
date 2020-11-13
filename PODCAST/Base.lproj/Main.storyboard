@@ -595,7 +595,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <color key="tintColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <state key="normal">
-                                    <imageReference key="image" image="volume.3.fill" catalog="system" symbolScale="small"/>
+                                    <imageReference key="image" image="speaker.wave.3.fill" catalog="system" symbolScale="small"/>
                                 </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3bp-qh-eGD">
@@ -603,7 +603,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="tintColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <state key="normal">
-                                    <imageReference key="image" image="volume.fill" catalog="system" symbolScale="small"/>
+                                    <imageReference key="image" image="speaker.fill" catalog="system" symbolScale="small"/>
                                 </state>
                             </button>
                             <navigationBar contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ioy-Se-qLg">
@@ -1073,11 +1073,11 @@
         <image name="magnifyingglass" catalog="system" width="128" height="115"/>
         <image name="play.circle.fill" catalog="system" width="128" height="121"/>
         <image name="play.fill" catalog="system" width="116" height="128"/>
+        <image name="speaker.fill" catalog="system" width="128" height="128"/>
+        <image name="speaker.wave.3.fill" catalog="system" width="128" height="86"/>
         <image name="square.and.arrow.up.fill" catalog="system" width="115" height="128"/>
         <image name="square.grid.2x2.fill" catalog="system" width="128" height="114"/>
         <image name="square.stack.fill" catalog="system" width="113" height="128"/>
-        <image name="volume.3.fill" catalog="system" width="128" height="86"/>
-        <image name="volume.fill" catalog="system" width="128" height="128"/>
         <image name="文茜" width="99.333335876464844" height="146"/>
         <image name="百靈果" width="98.666664123535156" height="141.33332824707031"/>
         <image name="股癌" width="98" height="148"/>
